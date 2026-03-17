@@ -1,0 +1,44 @@
+{
+  "workbench.colorCustomizations": {
+    "[Monokai]": {
+      // BASE LAYERS
+      "editor.background": "#1e1e1e",            // main area
+      "editorGroup.background": "#1b1b1b",         // behind editor
+      "panel.background": "#181818",             // terminal / output
+      "sideBar.background": "#161616",           // file explorer
+      "activityBar.background": "#141414",       // far left strip
+      "statusBar.background": "#121212",         // bottom bar
+
+      // TABS
+      "editorGroupHeader.tabsBackground": "#1b1b1b",
+      "tab.activeBackground": "#1e1e1e",
+      "tab.inactiveBackground": "#181818",
+      "tab.border": "#2a2a2a",
+
+      // EDITOR DETAILS
+      "editor.lineHighlightBackground": "#2a2a2a",
+      "editor.selectionBackground": "#3a3d41",
+      "editor.inactiveSelectionBackground": "#2f3136",
+
+      // PANELS & WIDGETS
+      "editorHoverWidget.background": "#252526",
+      "editorSuggestWidget.background": "#252526",
+      "dropdown.background": "#252526",
+      "menu.background": "#252526",
+
+      // LISTS
+      "list.hoverBackground": "#2a2a2a",
+      "list.activeSelectionBackground": "#333333",
+      "list.inactiveSelectionBackground": "#2a2a2a",
+
+      // BORDERS
+      "sideBar.border": "#2a2a2a",
+      "panel.border": "#2a2a2a",
+      "editorGroup.border": "#2a2a2a",
+
+      // CURSOR
+      "editorCursor.foreground": "#aeafad"
+    }
+  },
+  "workbench.colorTheme": "Monokai"
+}
