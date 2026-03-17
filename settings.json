@@ -3,7 +3,7 @@
     "[Monokai]": {
       // BASE LAYERS
       "editor.background": "#1e1e1e",            // main area
-      "editorGroup.background": "#1b1b1b",         // behind editor
+      "editorGroup.background": "#1b1b1b",       // behind editor
       "panel.background": "#181818",             // terminal / output
       "sideBar.background": "#161616",           // file explorer
       "activityBar.background": "#141414",       // far left strip
@@ -40,5 +40,7 @@
       "editorCursor.foreground": "#aeafad"
     }
   },
-  "workbench.colorTheme": "Monokai"
+  "workbench.colorTheme": "Monokai",
+  "explorer.confirmDragAndDrop": true,
+  "explorer.confirmDelete": true
 }
